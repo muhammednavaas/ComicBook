@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Commic Book</string>
+    <string name="newcomic">NEW COMIC (10)</string>
+    <string name="chapter">Chapter (10)</string>
+    <string name="chapter_1">Chapter 1</string>
+    <string name="nopagenumber">NO PAGE NUMBER</string>
+</resources>
